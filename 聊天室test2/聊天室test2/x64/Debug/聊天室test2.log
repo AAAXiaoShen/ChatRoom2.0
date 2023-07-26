@@ -1,0 +1,7 @@
+﻿  ServerClass.cpp
+D:\my c++ projects\聊天室test2\聊天室test2\ServerClass.cpp(167,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\my c++ projects\聊天室test2\聊天室test2\ServerClass.cpp(197,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\my c++ projects\聊天室test2\聊天室test2\ServerClass.cpp(222,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\my c++ projects\聊天室test2\聊天室test2\ServerClass.cpp(247,16): warning C4154: 删除数组表达式；转换到提供的指针
+D:\my c++ projects\聊天室test2\聊天室test2\ServerClass.cpp(302,87): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  聊天室test2.vcxproj -> D:\my c++ projects\聊天室test2\x64\Debug\聊天室test2.exe

@@ -1,0 +1,3 @@
+﻿  ClientClass.cpp
+D:\my c++ projects\聊天室test2\客户端\ClientClass.cpp(20,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  客户端.vcxproj -> D:\my c++ projects\聊天室test2\x64\Debug\客户端.exe
